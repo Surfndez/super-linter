@@ -20,7 +20,7 @@
     "stylelint-config-standard": "^20.0.0",
     "npm-groovy-lint": "^5.5.0",
     "typescript": "^3.9.7",
-    "asl-validator": "^1.7.0"
+    "asl-validator": "^1.9.0"
 
   }
 }
